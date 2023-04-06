@@ -1,0 +1,15 @@
+* {
+    font-family: 'Oxygen', sans-serif;
+}
+
+.logo {
+    font-size: larger;
+    color: rgb(104, 104, 211);
+    margin: 10px;
+    border: transparent;
+    position: relative;
+}
+
+h3 {
+    color: rgb(104, 104, 211);
+}
