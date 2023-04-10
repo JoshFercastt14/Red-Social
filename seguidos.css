@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(217, 196, 236);
+    font-family: 'Oxygen', sans-serif;
+}
+
+.logo {
+    font-size: larger;
+    color: rgb(104, 104, 211);
+    margin: 10px;
+    border: transparent;
+    position: relative;
+}
+
+h3 {
+    color: rgb(104, 104, 211);
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-block;
+}

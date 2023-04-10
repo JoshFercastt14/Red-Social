@@ -1,0 +1,95 @@
+* {
+    font-family: 'Oxygen', sans-serif;
+}
+
+body {
+    background: white
+}
+
+.form-main {
+    height: 450px;
+    padding: 60px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-content {
+    width: 100%;
+    max-width: 450px;
+    position: relative;
+
+}
+
+.form-content .box {
+    border-color: rgb(104, 104, 211);
+    border: 1px solid ;
+    padding: 40px 50px;
+    border-radius: 20px;
+}
+
+h1 {
+    margin-top: 250px;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(104, 104, 211);
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 28px;
+    text-align: center;
+    color: rgb(104, 104, 211);
+    font-weight: 500;
+}
+
+.form-content form {
+    margin: 25px 0 20px;
+}
+
+.form-content .input-box {
+    margin: 25px;
+}
+
+.form-content .input-control {
+    display: block;
+    height: 45px;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(104, 104, 211);
+    font-size: 16px;
+}
+
+.form-content .input-link {
+    margin-top: 10px;
+    text-align: right;
+}
+
+.form-content .btn {
+  margin-left: 80px;
+  height: 45px;
+  width: 50%;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 20px;
+  background-color: rgb(104, 104, 211);
+  text-transform: uppercase;
+  font-family: inherit;
+  cursor: pointer;
+  user-select: none;
+  border: none;
+  position: relative;
+  overflow: hidden;
+
+}
+
+.form-content .p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-block;
+}
